@@ -19,6 +19,6 @@ npx react-native run-ios
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov/orgs-cesta/blob/main/app.gif" width="300">
+  <img src="https://github.com/karenyov/orgs-hook/blob/main/app.gif" width="300">
 </p>
 
